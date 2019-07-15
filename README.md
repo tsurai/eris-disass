@@ -1,4 +1,4 @@
-# eris-disass
+# eris-disass [![Build Status](https://travis-ci.org/tsurai/eris-disass.svg?branch=master)](https://travis-ci.org/tsurai/eris-disass)
 Simple x86 disassembler supporting a very limited subset of the x86 instruction set. For educational purposes only.
 
 ## Purpose
