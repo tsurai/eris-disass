@@ -1,0 +1,8 @@
+[package]
+name = "eris-disass"
+version = "0.1.0"
+authors = ["Cristian Kubis <cristian.kubis@tsunix.de>"]
+
+[dependencies]
+failure = "0.1.5"
+log = "0.4.7"
